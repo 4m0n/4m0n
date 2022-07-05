@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/g/Projekte/Programmier zeugs/C/CWR/4m0n'
+make: Leaving directory '/g/Projekte/Programmier zeugs/C/CWR/4m0n'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
